@@ -25,14 +25,17 @@ persistence, per-user data isolation) rather than a bare CRUD tutorial.
 
 ## Screenshots
 
+![Dashboard](docs/screenshots/login.png)
+
+![Dashboard](docs/screenshots/dashboard.png)
 <table>
-  <tr>
-    <td><img src="docs/screenshots/login.png" width="400"/></td>
-    <td><img src="docs/screenshots/dashboard.png" width="400"/></td>
+  <tr> 
     <td><img src="docs/screenshots/task-details.png" width="400"/></td>
     <td><img src="docs/screenshots/profile.png" width="400"/></td>
   </tr>
 </table>
+
+---
 
 ## Project structure
 
